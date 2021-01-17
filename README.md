@@ -1,4 +1,4 @@
-# Python Tkinter & PostgreSQL
+# Python Tkinter, PostgreSQL & SQLLITE3
 
 # packages
 * virtualenv: `pip3 install virtualenv`
